@@ -1,0 +1,42 @@
+#parent-div{
+    text-align: center;
+    margin-top: 10%;
+    background-color:darkblue;
+    padding: 20px;
+             
+   
+}
+input{
+    padding: 10px;
+    border: 2px solid black;
+    font-size: 16px;
+    border-radius: 10px;
+}
+p{
+    font-size: 30px;
+    color:yellow;
+
+    font-weight: bold;
+   
+}
+button{
+    padding: 20px;
+    width: 200px;
+    font-size: 25px;
+   background-color: orangered;
+
+   color: whitesmoke;
+    text-align: center;
+    border-radius: 10px;
+
+}
+body{
+    background-color: beige;
+
+}
+h1{
+    text-align: center;
+    font-family: 'Baloo Bhai';
+    color: red;
+
+}
